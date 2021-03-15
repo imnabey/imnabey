@@ -6,17 +6,15 @@ A passionate Frontend Engineer with 3+ years experiences, who pretty love design
 
 - 💌 Contact me at [nabilahpermata30@gmail.com](mailto:nabilahpermata30@gmail.com).
 
-Technologies I've been learning and using so far :
-
-- Programming languages : <br />
+Technologies I've been learning and using so far : <br />
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]()
-
-- Frontend : <br />
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)]()
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)]()
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)]()
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)]()
-
-- OS & IDE & Tools : <br />
+    [![Next.js](https://img.shields.io/badge/-Next-eee?style=flat-square&logo=Next.js)]()
+    ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3)
+    ![C++](https://img.shields.io/badge/-C++-eee?style=flat-square&logo=c)
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
+    [![Gitlab](https://img.shields.io/badge/-Gitlab-eee?style=flat-square&logo=gitlab)]()
