@@ -1,6 +1,6 @@
-### Hi, I'm Nabilah 👋 — looking for a job as a Frontend Engineer for Fulltime Remote or Malang Base 💻
+### Hi, I'm Nabilah 👋 — looking for a job as a Frontend Engineer for Fulltime Remote 💻
 
-A passionate Frontend Engineer with 3+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript, especially React.js.
+A passionate Frontend Engineer with 4+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript, especially React.js.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabilahayupermata/)](https://www.linkedin.com/in/nabilahayupermata/)
 
